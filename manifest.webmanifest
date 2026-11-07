@@ -1,0 +1,10 @@
+{
+  "name": "Naved Haque — Software Developer",
+  "short_name": "Naved Haque",
+  "description": "Naved Haque is a software developer building clean, reliable web applications.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#241014",
+  "theme_color": "#241014",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

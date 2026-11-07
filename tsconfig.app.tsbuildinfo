@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/Reveal.tsx","./src/lib/api.ts","./src/lib/orvis.ts","./src/lib/store.ts","./src/sections/Contact.tsx","./src/sections/Header.tsx","./src/sections/Hero.tsx","./src/sections/Process.tsx","./src/sections/SelectedWork.tsx","./src/sections/Stats.tsx","./src/sections/WhatIDo.tsx"],"version":"5.7.3"}
